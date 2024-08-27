@@ -1,0 +1,26 @@
+body {
+  background-color: #f0f2f5;
+  font-family: 'Roboto', sans-serif;
+}
+
+h3,
+h4 {
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.MuiButton-containedPrimary {
+  background-color: #007bff;
+  color: white;
+}
+
+.MuiButton-containedPrimary:hover {
+  background-color: #0056b3;
+}
+
+.MuiContainer-root {
+  background-color: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
